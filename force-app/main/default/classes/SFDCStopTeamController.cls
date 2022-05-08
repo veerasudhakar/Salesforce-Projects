@@ -40,6 +40,14 @@ public class SFDCStopTeamController {
         );
         sfdcstopContributors.add(
             new Contributor(
+                'Sukanya',
+                'https://trailblazer-identity.my.salesforce.com/ncsphoto/7qGDgFdz6eXBvUgJiCq7eTnlBofZj-eSy2IjNh4-RWWhmd9H_dSyWxs3sUgAvtGEJTpzuM3HDqHywChKBZBcTw%3D%3D',
+                Date.newInstance(2022, 02, 10),
+                'https://trailblazer.me/id/msukanya'
+            )
+        );
+        sfdcstopContributors.add(
+            new Contributor(
                 'Hasan Shamsi',
                 'https://trailblazer-identity.my.salesforce.com/ncsphoto/7qGDgFdz6eXBvUgJiCq7eTnlBofZj-eSy2IjNh4-RWWhmd9H_dSyWxs3sUgAvtGEJTpzuM3HDqHywChKBZBcTw%3D%3D',
                 Date.newInstance(2022, 02, 10),
