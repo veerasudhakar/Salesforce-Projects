@@ -24,7 +24,7 @@ public class SFDCStopTeamController {
     }
 
     /*
-    *	Author:- Rahul Malhotra
+    *	Author:- Rahul Malhotraa
     *	Description:- This method is used to return contributors data
     */
     @AuraEnabled(cacheable=true)
